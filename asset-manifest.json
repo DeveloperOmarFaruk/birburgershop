@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/birburgershop/static/js/main.bbe418ae.chunk.js",
+    "main.js.map": "/birburgershop/static/js/main.bbe418ae.chunk.js.map",
+    "runtime-main.js": "/birburgershop/static/js/runtime-main.e607a9a6.js",
+    "runtime-main.js.map": "/birburgershop/static/js/runtime-main.e607a9a6.js.map",
+    "static/js/2.923d8063.chunk.js": "/birburgershop/static/js/2.923d8063.chunk.js",
+    "static/js/2.923d8063.chunk.js.map": "/birburgershop/static/js/2.923d8063.chunk.js.map",
+    "index.html": "/birburgershop/index.html",
+    "static/js/2.923d8063.chunk.js.LICENSE.txt": "/birburgershop/static/js/2.923d8063.chunk.js.LICENSE.txt",
+    "static/media/burger-1.d3f05965.jpg": "/birburgershop/static/media/burger-1.d3f05965.jpg",
+    "static/media/burger-2.e97db89f.jpg": "/birburgershop/static/media/burger-2.e97db89f.jpg",
+    "static/media/burger-3.e3c36443.jpg": "/birburgershop/static/media/burger-3.e3c36443.jpg",
+    "static/media/burger-4.97ce4167.jpg": "/birburgershop/static/media/burger-4.97ce4167.jpg",
+    "static/media/featured-4.1429b300.jpg": "/birburgershop/static/media/featured-4.1429b300.jpg",
+    "static/media/sweet-1.c495c742.jpg": "/birburgershop/static/media/sweet-1.c495c742.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/birburgershop/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/birburgershop/static/media/sweet-3.badeecbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e607a9a6.js",
+    "static/js/2.923d8063.chunk.js",
+    "static/js/main.bbe418ae.chunk.js"
+  ]
+}
