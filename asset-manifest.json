@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/birburgershop/static/js/main.bbe418ae.chunk.js",
-    "main.js.map": "/birburgershop/static/js/main.bbe418ae.chunk.js.map",
+    "main.js": "/birburgershop/static/js/main.f48213d5.chunk.js",
+    "main.js.map": "/birburgershop/static/js/main.f48213d5.chunk.js.map",
     "runtime-main.js": "/birburgershop/static/js/runtime-main.e607a9a6.js",
     "runtime-main.js.map": "/birburgershop/static/js/runtime-main.e607a9a6.js.map",
     "static/js/2.923d8063.chunk.js": "/birburgershop/static/js/2.923d8063.chunk.js",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.e607a9a6.js",
     "static/js/2.923d8063.chunk.js",
-    "static/js/main.bbe418ae.chunk.js"
+    "static/js/main.f48213d5.chunk.js"
   ]
 }
