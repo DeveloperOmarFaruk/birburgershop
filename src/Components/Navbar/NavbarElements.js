@@ -22,8 +22,13 @@ text-transform: uppercase;
 
 @media screen and (mim-width: 480px) {
     position: absolute;
-    top:  10px;
+    top:  8px;
     left: 20px;
+    
+}
+
+@media screen and (max-width: 768px) {
+    font-size: 1.1rem;
     
 }
 `
@@ -48,4 +53,9 @@ export const Bars = styled(GiHamburger)
 `
 font-size: 2rem;
 transform: translate(-50%, -15%);
+
+@media screen and (max-width: 768px) {
+    font-size: 1.7rem;
+    
+}
 `
